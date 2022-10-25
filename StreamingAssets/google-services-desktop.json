@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208958618224",
+    "firebase_url": "https://piano-dreams-default-rtdb.firebaseio.com",
+    "project_id": "piano-dreams",
+    "storage_bucket": "piano-dreams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208958618224:android:9c06d9c239e7e1b4ac52b5",
+        "android_client_info": {
+          "package_name": "com.kooapps.pianodreamsgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208958618224-erelsvbu9888kohq49l4das1st4qejaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjS3oeFi0t31V3XddA1trmTSSnWLirzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208958618224-erelsvbu9888kohq49l4das1st4qejaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208958618224-m02jsqafuf3r28ep9vbcf1qokt6t292i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kooapps.pianodream",
+                "app_store_id": "1595781073"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
